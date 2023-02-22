@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @pnjdprsty26
-- 👀 I’m interested in game dev
-- 🌱 I’m currently learning all about programming everyday
-- 📫 How to reach me ? you can contact me on my email : pnjdrpsty@gmail.com 
+From the front-end to the back-end, I'm a master of all trades in the digital world. As a full stack developer, I've spent countless hours crafting beautiful and functional web applications that combine form and function. With a passion for coding and a knack for problem-solving, I'm always pushing the boundaries of what's possible with technology. Whether I'm building a complex API or perfecting a user interface, I take pride in delivering high-quality solutions that exceed expectations. When I'm not coding, you can find me exploring new tech trends, tinkering with hardware, or brainstorming my next big idea. Let's connect and create something amazing together!
